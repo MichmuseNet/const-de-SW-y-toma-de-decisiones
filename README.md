@@ -1,1 +1,0 @@
-# const-de-SW-y-toma-de-decisiones
